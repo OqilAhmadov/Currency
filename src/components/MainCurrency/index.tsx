@@ -6,7 +6,6 @@ import { green } from "@mui/material/colors";
 import { AddCurrencies, RemoveCurrencies } from "../../redux/actions"
 import Currency from "../Currency";
 
-import { addCurrency, removeCurrency } from "../../store/todoSlice";
 
 import {
   Wrapper,
